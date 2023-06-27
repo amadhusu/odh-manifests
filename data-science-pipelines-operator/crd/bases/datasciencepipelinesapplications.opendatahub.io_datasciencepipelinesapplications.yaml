@@ -457,7 +457,7 @@ spec:
                       scheme:
                         type: string
                       secure:
-                        default: true
+                        default: false
                         type: boolean
                     required:
                     - bucket
